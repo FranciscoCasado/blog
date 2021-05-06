@@ -47,7 +47,7 @@ paginate:         5
 
 
 # Build settings
-theme: hyde
+remote_theme: poole/hyde
 plugins:
   - jekyll-feed
   - jekyll-paginate
