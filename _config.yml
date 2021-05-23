@@ -51,6 +51,7 @@ remote_theme: poole/hyde
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
