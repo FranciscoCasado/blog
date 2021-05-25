@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<h1>Hola!</h1>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -14,6 +15,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
+    {{ post.summary | liquify | markdownify}}
     {{ post.content }}
   </div>
   {% endfor %}
