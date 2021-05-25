@@ -2,7 +2,16 @@
 layout: post
 title: Empecé a hacer este sitio
 tags: how
-summary: Un poco de vanidad, las buenas influencias de la cultura **OpenSource** y la incerteza laboral hicieron que decidiera comenzar este sitio.<br>  Aquí pretendo compartir las cosas que hago, como cualquier otro blog. El dominio principal [www.franciscocasado.cl](https://franciscocasado.cl/) lo he dejado como *portafolio*.
+summary: "
+Un poco de vanidad, las buenas influencias de la cultura **OpenSource** y la incerteza laboral hicieron que decidiera comenzar este sitio.<br>
+
+
+Aquí pretendo compartir las cosas que hago, como cualquier otro blog. El dominio principal [www.franciscocasado.cl](https://franciscocasado.cl/) lo he dejado como *portafolio*.<br>
+
+
+En este post cuento por qué lo empecé, cómo escogí el dominio y *-bien a grandes rasgos-* como funciona esta página
+"
+
 ---
 ## Por qué lo empecé
 Hace dos meses tuve dudas de mi presente y futuro laboral en este escenario incierto que ha traido la pandemia y, dentro de todas las cosas que reflexionaba, una de las ideas que más se repetía era la de prepararme para buscar trabajo.

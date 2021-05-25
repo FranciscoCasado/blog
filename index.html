@@ -2,7 +2,11 @@
 layout: default
 title: Home
 ---
+<div></div>
 <h1>Hola!</h1>
+<div></div>
+
+
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -16,7 +20,10 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.summary | liquify | markdownify}}
-    {{ post.content }}
+    <a href="{{ post.url }}">
+      <i>Leer el post completo...</i>
+    </a>
+    
   </div>
   {% endfor %}
 </div>
