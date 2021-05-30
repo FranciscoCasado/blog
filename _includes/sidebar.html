@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -31,7 +31,11 @@
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
       -->
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    
+    <p style="font-size: 0.7rem;">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="nc&quot;" width="16" height="16" class="icon">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="nc&quot;" width="16" height="16" class="icon">
+    {{ site.time | date: '%Y' }}. Uso no-comercial permitido.
+  </p>
   </div>
 </div>
