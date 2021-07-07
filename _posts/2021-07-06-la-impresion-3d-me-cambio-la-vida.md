@@ -28,9 +28,7 @@ Bueno, la verdad es que de todo... pero para ser más preciso, lo que siempre di
 <div class="centered-video" width="100%"><iframe width="200px" height="200px" src="https://www.youtube.com/embed/TjaDUlOCwOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <section class="gallery">
-<a href="{{ '/' | relative_url }}assets/img/vaso2taza.png">
-    <img src="{{ '/' | relative_url }}assets/img/vaso2taza.png">
-</a>
+<img src="{{ '/' | relative_url }}assets/img/vaso2taza.png">
 <img src="{{ '/' | relative_url }}assets/img/alive.png">
 <img src="{{ '/' | relative_url }}assets/img/canasto.png">
 <img src="{{ '/' | relative_url }}assets/img/chef.png">
