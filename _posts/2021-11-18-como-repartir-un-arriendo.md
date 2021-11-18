@@ -7,7 +7,7 @@ Si alguna vez has tenido que compartir un gasto grande, como un arriendo, probab
 "
 ---
 
-A priori, uno podría definir un cobro igual por los espacios comunes y cada persona luego paga un proporcional por el espacio de uso exclusivo (como las piezas y baños *en suite*). ¿Pero y si los tamaños son iguales y una pieza recibe más luz que la otra? ¿Cuál vale más? ¿Ambas personas valoran en igua medida tamaño, iluminación, ruido, etc.?
+A priori, uno podría definir un cobro igual por los espacios comunes y cada persona luego paga un proporcional por el espacio de uso exclusivo (como las piezas y baños *en suite*). ¿Pero y si los tamaños son iguales y una pieza recibe más luz que la otra? ¿Cuál vale más? ¿Ambas personas valoran de igual forma el tamaño, la iluminación o el ruido?
 
 Suena como a participar de una subasta, ¿o no? ¿cómo se resuelven estos *conflictos* de manera justa? 
 
