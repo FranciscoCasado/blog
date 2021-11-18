@@ -27,7 +27,7 @@ permalink:        pretty
 title:            Hola, soy Francisco
 tagline:          'Una página sobre las cosas que hago'
 description:      >- # this means to ignore newlines until "baseurl:"
-  En esta página cuento un poco de lo que hago y los proyectos en los que he trabajado.
+  En esta página escribo sobre cosas que me interesan y que disfruto compartir
 
 #  A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> 
 #  theme that pairs a prominent sidebar with uncomplicated content. 
